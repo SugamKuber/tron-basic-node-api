@@ -12,7 +12,7 @@ Java(TM) SE Runtime Environment (build 1.8.0_401-b10)
 - Use the latest version of JAVA-TRON Build with [FullNode.jar
 ](https://github.com/tronprotocol/java-tron/releases/tag/GreatVoyage-v4.7.5)
 - You can also copy the repo and build with ```gradlew```
-- Create a conf file with the configration give from [main_net_config.conf](https://github.com/tronprotocol/tron-deployment/blob/master/main_net_config.conf)
+- Use the config file given or create from [here](https://github.com/tronprotocol/tron-deployment)
 
 - Run the Jar file with the below command
 ```
