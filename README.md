@@ -1,7 +1,7 @@
 # Tron Java Node
 
 
-### Implementation
+### !!! IMPORTANT
 - Refer this [doc](https://github.com/SugamKuber/tron-basic-node-api/blob/main/tron-java-node/README.md) to setup Java Tron on your linux
 - Refer this [doc](https://github.com/SugamKuber/tron-basic-node-api/blob/main/tron-api-server/README.md) to setup the API server and interact with Tron Node
 
@@ -10,6 +10,8 @@
 After the above implementation, Use the basic APIs below
 
 This server uses LOCAL TRON NODE to check the validity of address, To get the balance & transcation tronscan API's are used, You can implement the local indexer on golang by querying with LOCAL TRON NODE directly
+
+address = Tron Users Hex wallet address
 
 - Get User Balance API
 ```
