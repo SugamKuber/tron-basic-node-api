@@ -25,3 +25,6 @@ curl http://localhost:8080/txn/:address
 ```
 curl http://localhost:8080/txn/:address?limit=:number&start=:number
 ```
+
+Incase the address is wrong, Then you get a response with Invalid address, Make sure the address is right
+Request with Address -> Check Address Validity in middleware -> Call the txn/balance APIs -> Response 
