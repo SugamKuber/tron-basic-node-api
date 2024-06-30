@@ -26,3 +26,11 @@ tail -f logs/tron.log
 ```
 curl http://localhost:8090/wallet/getnowblock
 ```
+
+It should look something like this
+![image](https://github.com/SugamKuber/tron-basic-node-api/assets/86460476/8ce2dcc5-55ea-45ef-aa8a-273340ba3b07)
+![image](https://github.com/SugamKuber/tron-basic-node-api/assets/86460476/4288eb96-174c-4ece-9f4a-691c1b174588)
+![image](https://github.com/SugamKuber/tron-basic-node-api/assets/86460476/f8665570-fe30-411f-bb65-1e53289c6983)
+
+
+
